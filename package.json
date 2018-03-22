@@ -1,0 +1,24 @@
+{
+  "name": "temp-converter",
+  "version": "1.0.0",
+  "description": "Temperature Converter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDuverge/Temp-Converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDuverge/Temp-Converter/issues"
+  },
+  "homepage": "https://github.com/KDuverge/Temp-Converter#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
+}
